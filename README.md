@@ -1,8 +1,8 @@
 # Minecraft: Rewind
-A Minecraft 1.21.4 NeoForge mod bringing items such as the Gauntlets, The Amulet, and more from MCSM!
+A Minecraft 1.21.4 NeoForge mod bringing items such as the Gauntlets, The Amulet, and more from Minecraft: Story Mode!
 
-# Items Included
-The following are all the items featured in this mod:
+# Original Items Included
+The following are all the items form the original games featured in this mod:
 ## Prismarine Gauntlet | Season 2, Episode 1
 The Gauntlet made of Prismarine given to Jesse by The Admin/Romeo.
 
@@ -25,14 +25,38 @@ The tool forged by the Old Builders used to travel the worlds.
 
 ![](/Enchanted_Flint_and_Steel-2.png)
 
-And more!
+# Fanmade Items
+The following are some items made by the community:
 
-# The Underneath (BETA)
-COMING SOON
+## Romeo's Glock (made by LoxyTheReindeer)
+The weapon forged by The Admin/Romeo that was used to kill Fred. 
+
+(Image & more coming soon)
+
+# The Underneath (Beta)
+A dimension bedrocked over and converted to a nether-like state by The Admin/Romeo.
+
+## How do I access it?
+
+**NOTE: This can only be used in Creative Mode while in beta.**
+
+1. Make a sandstone frame in the shape of a nether portal.
+2. Grab the Mesa Portal Core from Creative Menu, under the Minecraft: Rewind tab.
+3. Light the portal by left-clicking in the frame.
+4. Enjoy!
 
 # Requirements
 
-A Windows, macOS, or Linux device that can run Minecraft.
+A Windows, macOS, or Linux device that can run Minecraft: Java Edition.
+
 Minecraft: Java Edition with NeoForge 1.21.4 installed
 
 # Credits
+
+Mojang Studios & Telltale Games - Original Games
+MCreator - Tools
+The Block by Block: The Amulet community discord - Inspiration
+LoxyTheReindeer - Base Model for Romeo's Glock
+You - Supporting and enjoying the project!
+
+
