@@ -54,9 +54,14 @@ Minecraft: Java Edition with NeoForge 1.21.4 installed
 # Credits
 
 Mojang Studios & Telltale Games - Original Games
+
 MCreator - Tools
+
 The Block by Block: The Amulet community discord - Inspiration
+
 LoxyTheReindeer - Base Model for Romeo's Glock
+
 You - Supporting and enjoying the project!
+
 
 
