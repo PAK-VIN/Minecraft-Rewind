@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"1": "texture_amu1",
-		"2": "texture_amu12",
+		"2": "texture_amu2",
 		"3": "texture_amu3",
 		"4": "texture_amu4",
 		"5": "texture_amu5",
@@ -360,7 +360,7 @@
 			"translation": [-7, 0, 0]
 		},
 		"gui": {
-			"rotation": [90, 0, 0],
+			"rotation": [-180, -90, -90],
 			"scale": [2, 0, 2]
 		},
 		"fixed": {
