@@ -1,5 +1,5 @@
 # Minecraft: Rewind
-A Minecraft 1.21.4 NeoForge mod bringing items such as the Gauntlets, The Amulet, and more from Minecraft: Story Mode!
+A Minecraft 1.21.4 NeoForge mod bringing items such as the Gauntlets, The Amulet, and more from Minecraft: Story Mode, as well as fanmade items!
 
 # Original Items Included
 The following are all the items form the original games featured in this mod:
@@ -31,17 +31,21 @@ The following are some items made by the community:
 ## Romeo's Glock (made by LoxyTheReindeer)
 The weapon forged by The Admin/Romeo that was used to kill Fred. 
 
-(Image & more coming soon)
+## Corrupted, Faithful, and Warrior's Gauntlets (made by PAK-VIN)
+All powerful Gauntlets made by the other two Admins.
 
-# The Underneath (Beta)
+## Gauntlet Cores (made by PAK-VIN)
+The disks created to create the gauntlets!
+
+# The Underneath
 A dimension bedrocked over and converted to a nether-like state by The Admin/Romeo.
 
 ## How do I access it?
 
-**NOTE: This can only be used in Creative Mode while in beta.**
+**NOTE: This can only be used in Creative Mode for now.**
 
 1. Make a sandstone frame in the shape of a nether portal.
-2. Grab the Mesa Portal Core from Creative Menu, under the Minecraft: Rewind tab.
+2. Grab the Romeo's Portal Key from Creative Menu, under the Minecraft: Rewind tab.
 3. Light the portal by left-clicking in the frame.
 4. Enjoy!
 
