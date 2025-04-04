@@ -25,7 +25,7 @@ The tool forged by the Old Builders used to travel the worlds.
 
 ![](/Enchanted_Flint_and_Steel-2.png)
 
-# Fanmade Items
+# Fanmade Items (Recipes coming soon)
 The following are some items made by the community:
 
 ## Romeo's Glock (made by LoxyTheReindeer)
