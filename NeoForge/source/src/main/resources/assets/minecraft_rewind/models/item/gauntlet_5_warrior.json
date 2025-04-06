@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft_rewind:custom/gauntlet-v6",
+  "textures": {
+    "0": "minecraft_rewind:block/texture1._warpng",
+    "1": "minecraft_rewind:block/texture2_warpng",
+    "3": "minecraft_rewind:block/tex4xara",
+    "4": "minecraft_rewind:block/texture3_warpng",
+    "missing": "minecraft_rewind:block/",
+    "particle": "minecraft_rewind:item/war_ico"
+  }
+}

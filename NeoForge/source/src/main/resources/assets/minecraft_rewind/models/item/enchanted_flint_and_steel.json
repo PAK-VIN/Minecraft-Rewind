@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft_rewind:item/enchanted_flint_and_steel-2"
+  }
+}

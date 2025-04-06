@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bde",
+    "cec"
+  ],
+  "key": {
+    "a": "minecraft:cut_copper",
+    "b": "minecraft:raw_gold",
+    "c": "minecraft:copper_block",
+    "d": "minecraft:diamond",
+    "e": "minecraft:raw_copper"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_core_7",
+    "count": 1
+  }
+}

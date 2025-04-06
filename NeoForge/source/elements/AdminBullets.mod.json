@@ -1,0 +1,21 @@
+{
+  "_fv": 77,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:RomeosGlock"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 10.0,
+    "knockback": 10,
+    "entityModel": "ModelCustomModel",
+    "customModelTexture": "texture_bul.png",
+    "modelWidth": 0.5,
+    "modelHeight": 0.5
+  }
+}

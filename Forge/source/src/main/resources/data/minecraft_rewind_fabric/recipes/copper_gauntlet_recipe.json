@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "d d"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_block"
+    },
+    "b": {
+      "item": "minecraft:weathered_copper"
+    },
+    "c": {
+      "item": "minecraft_rewind_fabric:gauntlet_core_7"
+    },
+    "d": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft_rewind_fabric:gauntlet_7_copper",
+    "count": 1
+  }
+}

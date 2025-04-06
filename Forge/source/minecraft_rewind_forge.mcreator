@@ -1,0 +1,497 @@
+{
+  "mod_elements": [
+    {
+      "name": "Gauntlet1Prismarine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_1_prismarine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_1_prismarine.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/Gauntlet1PrismarineItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MinecraftRewindTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minecraft_rewind_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Gauntlet2Champion",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_2_champion",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/Gauntlet2ChampionItem.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_2_champion.json"
+        ]
+      }
+    },
+    {
+      "name": "Gauntlet3GoldProtocol",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_3_gold_protocol",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_3_gold_protocol.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/Gauntlet3GoldProtocolItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RomeosGlock",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "romeos_glock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/romeos_glock.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/RomeosGlockItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Gauntlet5Warrior",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_5_warrior",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/Gauntlet5WarriorItem.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_5_warrior.json"
+        ]
+      }
+    },
+    {
+      "name": "Gauntlet6Fred",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_6_fred",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_6_fred.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/Gauntlet6FredItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TheAmulet",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_amulet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/the_amulet.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/TheAmuletItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ThePortalAtlas",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_portal_atlas",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/ThePortalAtlasItem.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/the_portal_atlas.json"
+        ]
+      }
+    },
+    {
+      "name": "EnchantedFlintAndSteel",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchanted_flint_and_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/enchanted_flint_and_steel.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/EnchantedFlintAndSteelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EnchantedFlintAndSteelProcedure",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchanted_flint_and_steel_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindfabric/procedures/EnchantedFlintAndSteelProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TheUnderneath",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_underneath",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/dimension_type/the_underneath.json",
+          "src/main/resources/data/minecraft_rewind_fabric/dimension/the_underneath.json"
+        ]
+      }
+    },
+    {
+      "name": "GauntletCore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_core",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/GauntletCoreItem.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_core.json"
+        ]
+      }
+    },
+    {
+      "name": "GauntletCore2",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_core_2",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/GauntletCore2Item.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_core_2.json"
+        ]
+      }
+    },
+    {
+      "name": "GauntletCore3",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_core_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_core_3.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/GauntletCore3Item.java"
+        ]
+      }
+    },
+    {
+      "name": "PrismarineGauntletRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_gauntlet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/prismarine_gauntlet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RomeoCoreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "romeo_core_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/romeo_core_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldenCoreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_core_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/golden_core_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GauntletCore5",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_core_5",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/GauntletCore5Item.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_core_5.json"
+        ]
+      }
+    },
+    {
+      "name": "GauntletCore6",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_core_6",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/GauntletCore6Item.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_core_6.json"
+        ]
+      }
+    },
+    {
+      "name": "WarriorCoreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warrior_core_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/warrior_core_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FaithfulCoreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faithful_core_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/faithful_core_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PrisGauntletRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pris_gauntlet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/pris_gauntlet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RomeoGauntletRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "romeo_gauntlet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/romeo_gauntlet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldGauntletRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_gauntlet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/gold_gauntlet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "WarriorsGauntletRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warriors_gauntlet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/warriors_gauntlet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FaithfulGauntletRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faithful_gauntlet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/faithful_gauntlet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Gauntlet7Copper",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_7_copper",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_7_copper.json",
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/Gauntlet7CopperItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GauntletCore7",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gauntlet_core_7",
+      "metadata": {
+        "files": [
+          "src/main/java/sp/pakvin/minecraftrewindforge/item/GauntletCore7Item.java",
+          "src/main/resources/assets/minecraft_rewind_forge/models/item/gauntlet_core_7.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperCore",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_core",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/copper_core.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperGauntletRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_gauntlet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft_rewind_fabric/recipes/copper_gauntlet_recipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {
+    "CUSTOM:MinecraftRewindTab": [
+      "Gauntlet1Prismarine",
+      "Gauntlet2Champion",
+      "Gauntlet3GoldProtocol",
+      "Gauntlet5Warrior",
+      "Gauntlet6Fred",
+      "Gauntlet7Copper",
+      "TheAmulet",
+      "ThePortalAtlas",
+      "EnchantedFlintAndSteel",
+      "GauntletCore",
+      "GauntletCore2",
+      "GauntletCore3",
+      "GauntletCore5",
+      "GauntletCore6",
+      "GauntletCore7",
+      "TheUnderneath",
+      "RomeosGlock"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "item.minecraft_rewind_forge.gauntlet_core_7": "Copper Gauntlet Core",
+      "item.minecraft_rewind_forge.the_amulet": "The Amulet",
+      "item.minecraft_rewind_forge.gauntlet_core_6": "Faithful Gauntlet Core",
+      "item.minecraft_rewind_forge.gauntlet_core_5": "Warrior\u0027s Gauntlet Core",
+      "item.minecraft_rewind_forge.gauntlet_core_3": "Fred\u0027s Golden Gauntlet Core",
+      "item.minecraft_rewind_forge.gauntlet_core_2": "Champion\u0027s Gauntlet Core",
+      "item_group.minecraft_rewind_fabric.minecraft_rewind_tab": "Minecraft: Rewind",
+      "item.minecraft_rewind_forge.gauntlet_2_champion": "Champion\u0027s Gauntlet",
+      "item.minecraft_rewind.gauntlet_core": "Prismarine Gauntlet Core",
+      "item.minecraft_rewind.enchanted_flint_and_steel": "Enchanted Flint And Steel",
+      "item.minecraft_rewind_forge.enchanted_flint_and_steel": "Enchanted Flint And Steel",
+      "item.minecraft_rewind.gauntlet_2_champion": "Champion\u0027s Gauntlet",
+      "item.minecraft_rewind_forge.romeos_glock": "Romeo\u0027s Glock",
+      "item.minecraft_rewind_forge.gauntlet_3_gold_protocol": "Fred\u0027s Golden Gauntlet",
+      "item_group.minecraft_rewind_forge.minecraft_rewind_tab": "Minecraft: Rewind",
+      "item.minecraft_rewind.gauntlet_5_warrior": "Survivor\u0027s Gauntlet",
+      "item.minecraft_rewind.romeos_glock": "Romeo\u0027s Glock",
+      "item.minecraft_rewind.the_underneath": "Romeo\u0027s Portal Key",
+      "item.minecraft_rewind.the_portal_atlas": "The Portal Atlas",
+      "item.minecraft_rewind.gauntlet_6_fred": "Faithful Gauntlet",
+      "item.minecraft_rewind_forge.gauntlet_core": "Prismarine Gauntlet Core",
+      "item.minecraft_rewind.the_amulet": "The Amulet",
+      "item.minecraft_rewind.gauntlet_3_gold_protocol": "Fred\u0027s Golden Gauntlet",
+      "item.minecraft_rewind.gauntlet_7_copper": "Copper Gauntlet",
+      "item.minecraft_rewind.gauntlet_1_prismarine": "Prismarine Gauntlet",
+      "item.minecraft_rewind_forge.the_underneath": "Romeo\u0027s Portal Key",
+      "item.minecraft_rewind_forge.gauntlet_7_copper": "Copper Gauntlet",
+      "item.minecraft_rewind_forge.the_portal_atlas": "The Portal Atlas",
+      "item.minecraft_rewind_forge.gauntlet_6_fred": "Faithful Gauntlet",
+      "item.minecraft_rewind.gauntlet_core_2": "Champion\u0027s Gauntlet Core",
+      "item.minecraft_rewind.gauntlet_core_3": "Fred\u0027s Golden Gauntlet Core",
+      "item.minecraft_rewind.gauntlet_core_6": "Faithful Gauntlet Core",
+      "item.minecraft_rewind_forge.gauntlet_5_warrior": "Survivor\u0027s Gauntlet",
+      "item.minecraft_rewind.gauntlet_core_5": "Warrior\u0027s Gauntlet Core",
+      "item.minecraft_rewind_forge.gauntlet_1_prismarine": "Prismarine Gauntlet",
+      "item_group.minecraft_rewind.minecraft_rewind_tab": "Minecraft: Rewind",
+      "item.minecraft_rewind.gauntlet_core_7": "Copper Gauntlet Core"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minecraft_rewind_fabric",
+    "modName": "Minecraft: Rewind - Fabric Edition",
+    "version": "1.0.0 stable",
+    "description": "The story mode you know and love, rewinded.",
+    "author": "PAK-VIN \u0026 SmartPixel Studios",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "mcrlogo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "Credits | MCreator - Tools | BBB Disocrd - Ideas | LoxyTheReindeer - Model for Romeo\u0027s Glock |",
+    "modElementsPackage": "sp.pakvin.minecraftrewindfabric"
+  },
+  "mcreatorVersion": 202500110519
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft_rewind:custom/the_portal_atlas",
+  "textures": {
+    "0": "minecraft_rewind:block/texture_atl1",
+    "1": "minecraft_rewind:block/texture_atl2",
+    "2": "minecraft_rewind:block/texture_atl3",
+    "3": "minecraft_rewind:block/texture_atl3",
+    "4": "minecraft_rewind:block/",
+    "particle": "minecraft:item/book"
+  }
+}

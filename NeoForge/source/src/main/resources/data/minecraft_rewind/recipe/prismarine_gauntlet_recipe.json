@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:prismarine_shard",
+    "b": "minecraft:prismarine_crystals",
+    "c": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_core",
+    "count": 1
+  }
+}

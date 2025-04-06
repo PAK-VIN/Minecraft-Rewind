@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "minecraft_rewind:block/the_underneath_portal_ew"
+    },
+    "axis=x": {
+      "model": "minecraft_rewind:block/the_underneath_portal_ns"
+    }
+  }
+}

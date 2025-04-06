@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft_rewind:custom/gauntlet-v6",
+  "textures": {
+    "0": "minecraft_rewind:block/copper_1",
+    "1": "minecraft_rewind:block/copper_2",
+    "3": "minecraft_rewind:block/copper_3",
+    "4": "minecraft_rewind:block/copper_4",
+    "missing": "minecraft_rewind:block/",
+    "particle": "minecraft_rewind:item/icotex7"
+  }
+}

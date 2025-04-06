@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "texture1_rg2",
+        "2": "texture2_rg2",
+        "3": "texture3_rg2",
+        "4": "texture4_rg2",
+        "5": "texture5_rg2",
+        "6": "texture6_rg2",
+        "7": "texture7_rg2",
+        "8": "texture8_rg2"
+      },
+      "name": "default"
+    }
+  }
+}

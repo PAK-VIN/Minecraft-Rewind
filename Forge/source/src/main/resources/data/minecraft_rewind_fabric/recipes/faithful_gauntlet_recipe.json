@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "minecraft:lapis_block"
+    },
+    "d": {
+      "item": "minecraft_rewind_fabric:gauntlet_core_6"
+    }
+  },
+  "result": {
+    "item": "minecraft_rewind_fabric:gauntlet_6_fred",
+    "count": 1
+  }
+}

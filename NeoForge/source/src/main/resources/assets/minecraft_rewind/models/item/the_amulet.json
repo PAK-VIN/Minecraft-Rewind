@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft_rewind:custom/the_amulet",
+  "textures": {
+    "1": "minecraft_rewind:block/texture_amu1",
+    "2": "minecraft_rewind:block/texture_amu2",
+    "3": "minecraft_rewind:block/texture_amu3",
+    "4": "minecraft_rewind:block/texture_amu4",
+    "5": "minecraft_rewind:block/texture_amu5",
+    "6": "minecraft_rewind:block/texture_amu6",
+    "7": "minecraft_rewind:block/texture_amu7",
+    "8": "minecraft_rewind:block/texture_amu8",
+    "9": "minecraft_rewind:block/texture_amu9",
+    "particle": "minecraft_rewind:item/160px-amulet-2"
+  }
+}

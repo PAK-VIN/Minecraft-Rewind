@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:redstone_block",
+    "b": "minecraft:lava_bucket",
+    "c": "minecraft:cobblestone",
+    "d": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_core_2",
+    "count": 1
+  }
+}

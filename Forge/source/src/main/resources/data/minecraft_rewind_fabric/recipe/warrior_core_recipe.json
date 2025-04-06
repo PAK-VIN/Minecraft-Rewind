@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:magenta_wool",
+    "b": "minecraft:amethyst_block",
+    "c": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_core_5",
+    "count": 1
+  }
+}

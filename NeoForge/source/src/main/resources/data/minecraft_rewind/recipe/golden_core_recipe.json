@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:gold_block",
+    "b": "minecraft:gold_ingot",
+    "c": "minecraft:diamond"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_core_3",
+    "count": 1
+  }
+}

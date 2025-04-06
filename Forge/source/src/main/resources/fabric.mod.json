@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "minecraft_rewind_fabric",
+  "version": "1.0.0 stable",
+  "name": "Minecraft: Rewind - Fabric Edition",
+  "description": "The story mode you know and love, rewinded.",
+  "authors": [
+    "PAK-VIN & SmartPixel Studios"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Not specified",
+  "icon": "assets/minecraft_rewind_fabric/icon.png",
+  "accessWidener": "minecraft_rewind_fabric.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "sp.pakvin.minecraftrewindfabric.MinecraftRewindFabricMod"
+    ],
+    "client": [
+      "sp.pakvin.minecraftrewindfabric.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "minecraft_rewind_fabric.mixins.json"
+  ]
+}

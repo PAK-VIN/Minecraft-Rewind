@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft_rewind:custom/romeosglock-v2",
+  "textures": {
+    "1": "minecraft_rewind:block/texture1_rg2",
+    "2": "minecraft_rewind:block/texture2_rg2",
+    "3": "minecraft_rewind:block/texture3_rg2",
+    "4": "minecraft_rewind:block/texture4_rg2",
+    "5": "minecraft_rewind:block/texture5_rg2",
+    "6": "minecraft_rewind:block/texture6_rg2",
+    "7": "minecraft_rewind:block/texture7_rg2",
+    "8": "minecraft_rewind:block/texture8_rg2",
+    "particle": "minecraft_rewind:item/rg_ico"
+  }
+}

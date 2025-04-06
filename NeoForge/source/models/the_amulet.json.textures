@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "texture_amu1",
+        "2": "texture_amu2",
+        "3": "texture_amu3",
+        "4": "texture_amu4",
+        "5": "texture_amu5",
+        "6": "texture_amu6",
+        "7": "texture_amu7",
+        "8": "texture_amu8",
+        "9": "texture_amu9"
+      },
+      "name": "default"
+    }
+  }
+}

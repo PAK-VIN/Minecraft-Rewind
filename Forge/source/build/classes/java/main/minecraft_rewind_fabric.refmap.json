@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "sp/pakvin/minecraftrewindfabric/mixins/MinecraftRewindFabricModRepairItemRecipeMixin": {
+      "assemble": "Lnet/minecraft/class_4317;method_20807(Lnet/minecraft/class_8566;Lnet/minecraft/class_5455;)Lnet/minecraft/class_1799;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "sp/pakvin/minecraftrewindfabric/mixins/MinecraftRewindFabricModRepairItemRecipeMixin": {
+        "assemble": "Lnet/minecraft/class_4317;method_20807(Lnet/minecraft/class_8566;Lnet/minecraft/class_5455;)Lnet/minecraft/class_1799;"
+      }
+    }
+  }
+}

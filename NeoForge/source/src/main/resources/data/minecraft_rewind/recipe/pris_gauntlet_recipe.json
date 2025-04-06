@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": "minecraft:sea_lantern",
+    "b": "minecraft:prismarine",
+    "c": "minecraft_rewind:gauntlet_core"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_1_prismarine",
+    "count": 1
+  }
+}

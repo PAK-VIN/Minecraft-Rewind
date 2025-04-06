@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft_rewind:custom/gauntlet-v6",
+  "textures": {
+    "0": "minecraft_rewind:block/texture1_pris_2",
+    "1": "minecraft_rewind:block/texture2_pris_e",
+    "3": "minecraft_rewind:block/texture4_pris_e",
+    "4": "minecraft_rewind:block/texture3_pris",
+    "missing": "minecraft_rewind:block/",
+    "particle": "minecraft_rewind:item/t_prismarinegauntlet_icon-2"
+  }
+}

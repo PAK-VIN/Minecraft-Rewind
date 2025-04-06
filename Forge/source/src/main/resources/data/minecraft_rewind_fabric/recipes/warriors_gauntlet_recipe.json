@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "d d"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_cluster"
+    },
+    "b": {
+      "item": "minecraft:amethyst_block"
+    },
+    "c": {
+      "item": "minecraft_rewind_fabric:gauntlet_core_5"
+    },
+    "d": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "minecraft_rewind_fabric:gauntlet_5_warrior",
+    "count": 1
+  }
+}

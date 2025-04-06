@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft_rewind:custom/gauntlet-v6",
+  "textures": {
+    "0": "minecraft_rewind:block/texture1",
+    "1": "minecraft_rewind:block/texture2",
+    "3": "minecraft_rewind:block/tex4gold",
+    "4": "minecraft_rewind:block/texture3",
+    "missing": "minecraft_rewind:block/",
+    "particle": "minecraft_rewind:item/t_goldprotocol_icon"
+  }
+}

@@ -1,0 +1,4 @@
+/time set night
+/time set ni
+/time set night
+/time set midnight

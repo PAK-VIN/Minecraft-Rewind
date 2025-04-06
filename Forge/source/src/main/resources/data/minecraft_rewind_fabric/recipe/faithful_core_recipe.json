@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:lapis_lazuli",
+    "b": "minecraft:lapis_block",
+    "c": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_core_6",
+    "count": 1
+  }
+}

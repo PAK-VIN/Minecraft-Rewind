@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texture_atl1",
+        "1": "texture_atl2",
+        "2": "texture_atl3",
+        "3": "texture_atl3",
+        "4": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": "minecraft:redstone_lamp",
+    "b": "minecraft:redstone_block",
+    "c": "minecraft_rewind:gauntlet_core_2"
+  },
+  "result": {
+    "id": "minecraft_rewind:gauntlet_2_champion",
+    "count": 1
+  }
+}

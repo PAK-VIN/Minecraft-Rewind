@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "sp.pakvin.minecraftrewindfabric.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+      "MinecraftRewindFabricModRepairItemRecipeMixin"  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
